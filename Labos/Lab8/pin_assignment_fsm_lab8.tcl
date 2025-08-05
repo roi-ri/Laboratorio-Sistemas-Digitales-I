@@ -1,0 +1,68 @@
+#Botones
+set_location_assignment PIN_A7 -to enter
+set_location_assignment PIN_B8 -to rst
+#CLK
+set_location_assignment PIN_P11 -to clk
+#HEX0
+set_location_assignment PIN_C14 -to letra0[0]
+set_location_assignment PIN_E15 -to letra0[1]
+set_location_assignment PIN_C15 -to letra0[2]
+set_location_assignment PIN_C16 -to letra0[3]
+set_location_assignment PIN_E16 -to letra0[4]
+set_location_assignment PIN_D17 -to letra0[5]
+set_location_assignment PIN_C17 -to letra0[6]
+set_location_assignment PIN_D15 -to letra0[7]
+#HEX1
+set_location_assignment PIN_C18 -to letra1[0]
+set_location_assignment PIN_D18 -to letra1[1]
+set_location_assignment PIN_E18 -to letra1[2]
+set_location_assignment PIN_B16 -to letra1[3]
+set_location_assignment PIN_A17 -to letra1[4]
+set_location_assignment PIN_A18 -to letra1[5]
+set_location_assignment PIN_B17 -to letra1[6]
+set_location_assignment PIN_A16 -to letra1[7]
+#HEX2
+set_location_assignment PIN_B20 -to letra2[0]
+set_location_assignment PIN_A20 -to letra2[1]
+set_location_assignment PIN_B19 -to letra2[2]
+set_location_assignment PIN_A21 -to letra2[3]
+set_location_assignment PIN_B21 -to letra2[4]
+set_location_assignment PIN_C22 -to letra2[5]
+set_location_assignment PIN_B22 -to letra2[6]
+set_location_assignment PIN_A19 -to letra2[7]
+#HEX3
+set_location_assignment PIN_F21 -to letra3[0]
+set_location_assignment PIN_E22 -to letra3[1]
+set_location_assignment PIN_E21 -to letra3[2]
+set_location_assignment PIN_C19 -to letra3[3]
+set_location_assignment PIN_C20 -to letra3[4]
+set_location_assignment PIN_D19 -to letra3[5]
+set_location_assignment PIN_E17 -to letra3[6]
+set_location_assignment PIN_D22 -to letra3[7]
+#HEX4
+set_location_assignment PIN_F18 -to letra4[0]
+set_location_assignment PIN_E20 -to letra4[1]
+set_location_assignment PIN_E19 -to letra4[2]
+set_location_assignment PIN_J18 -to letra4[3]
+set_location_assignment PIN_H19 -to letra4[4]
+set_location_assignment PIN_F19 -to letra4[5]
+set_location_assignment PIN_F20 -to letra4[6]
+set_location_assignment PIN_F17 -to letra4[7]
+#HEX5
+set_location_assignment PIN_J20 -to letra5[0]
+set_location_assignment PIN_K20 -to letra5[1]
+set_location_assignment PIN_L18 -to letra5[2]
+set_location_assignment PIN_N18 -to letra5[3]
+set_location_assignment PIN_M20 -to letra5[4]
+set_location_assignment PIN_N19 -to letra5[5]
+set_location_assignment PIN_N20 -to letra5[6]
+set_location_assignment PIN_L19 -to letra5[7]
+#SWITCHES
+set_location_assignment PIN_C10 -to letra_in[0]
+set_location_assignment PIN_C11 -to letra_in[1]
+set_location_assignment PIN_D12 -to letra_in[2]
+set_location_assignment PIN_C12 -to letra_in[3]
+set_location_assignment PIN_A12 -to letra_in[4]
+set_location_assignment PIN_B12 -to letra_in[5]
+set_location_assignment PIN_A13 -to letra_in[6]
+set_location_assignment PIN_A14 -to letra_in[7]
